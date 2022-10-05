@@ -1,0 +1,1 @@
+- This project explains how to communicate with the shell

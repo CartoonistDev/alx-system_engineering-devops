@@ -1,0 +1,1 @@
+- This is an excutable script that prints the current working directory
